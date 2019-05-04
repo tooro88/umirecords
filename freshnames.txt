@@ -1,0 +1,17 @@
+Ch01acorn:     Acorns and Needles            --- どんぐりと針
+Ch02cat:       Camper Cat                    --- キャンプ好きのネコ
+Ch03map:       Eye-Opening World Map         --- 目覚めの世界地図
+Ch04tadpole:   Boss Battle: Giga Tadpole     --- ボス:ギガおたまじゃくし
+Ch05dog:       Sky Dog                       --- 空の犬
+Ch06dandelion: Dandelions Dancing in the Sky --- 天空に舞う綿毛
+Ch07hippo:     Hippos Can't Fly              --- 飛べないカバ
+Ch08pig:       Boss Battle: Big Pig          --- ボス:ビッグ・ピッグ
+Ch09both:      They're Both Hard!            --- どっちも大変!
+Ch10which:     Which Way is Harder?          --- どっちが大変?
+Ch11stroll:    Midair Stroll through a Dream --- 夢の中の空中散歩
+Ch12crab:      Boss Battle: Crabpose         --- ボス:カニンポス
+Ch13rain:      Rain Like Waterfalls          --- 滝のような雨
+Ch14blowfish:  Boss Battle: Blowfish         --- ボス:ハリセンボン
+Ch15marathon:  Midnight Marathon             --- 真夜中の運動会
+Ch16train:     Midnight Train Adventure      --- 深夜列車での旅
+Ch17harami:    Boss Battle: Harami?          --- ボス:ハラミ?

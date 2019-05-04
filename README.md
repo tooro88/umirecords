@@ -7,4 +7,10 @@ Currently supports:
  * Steam UmiharaKawase (directory: umifstwin)
  * Steam UmiharaKawase Shun (directory: umishunwin)
  * Steam Sayonara UmiharaKawase (directory: umibyewin)
-
+ * Switch UmiharaKawase Fresh (directory: freshjp)
+    * Up to 20th entry for each quest
+    * File name conventions:
+       * Qxx, Qcxx: Timeattack for quests
+       * Chxx...: Challenge (see freshname.txt for naming)
+       * _Kw: Kawase
+       * _Ct: Cotton
