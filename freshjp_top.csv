@@ -11,7 +11,7 @@
 1,freshjp,Ch06dandelion_Ct,17.91,2019/05/08,SDL2
 1,freshjp,Ch06dandelion_Kw,18.93,2019/05/05,ふぁじい
 1,freshjp,Ch07hippo_Ct,9.15,2019/05/05,cos
-1,freshjp,Ch07hippo_Kw,12.71,2019/05/15,guterham
+1,freshjp,Ch07hippo_Kw,12.35,2019/05/15,guterham
 1,freshjp,Ch08pig_Ct,28.61,2019/05/05,manchofu
 1,freshjp,Ch08pig_Kw,28.80,2019/05/05,manchofu
 1,freshjp,Ch09both_Ct,2.07.56,2019/05/12,SDL2
@@ -99,7 +99,7 @@
 1,freshjp,Q33_Ct,1.51.36,2019/05/08,SDL2
 1,freshjp,Q33_Kw,1.57.86,2019/05/07,タクマ
 1,freshjp,Q34_Ct,1.03.76,2019/05/14,えみち
-1,freshjp,Q34_Kw,49.98,2019/05/04,パロ・ウル
+1,freshjp,Q34_Kw,38.31,2019/05/15,パロ・ウル
 1,freshjp,Q35_Ct,2.08.53,2019/05/05,SDL2
 1,freshjp,Q35_Kw,1.59.03,2019/05/10,あきつ
 1,freshjp,Q36_Ct,28.61,2019/05/05,manchofu
@@ -109,7 +109,7 @@
 1,freshjp,Q38_Ct,48.90,2019/05/06,HAL900
 1,freshjp,Q38_Kw,1.08.33,2019/05/12,あきつ
 1,freshjp,Q39_Ct,12.53,2019/05/12,わあい
-1,freshjp,Q39_Kw,13.06,2019/05/12,わあい
+1,freshjp,Q39_Kw,12.76,2019/05/15,わあい
 1,freshjp,Q40_Ct,44.61,2019/05/13,とおろ
 1,freshjp,Q40_Kw,1.06.01,2019/05/13,あきつ
 1,freshjp,Q41_Ct,1.25.03,2019/05/06,HAL900
@@ -117,7 +117,7 @@
 1,freshjp,Q42_Ct,1.29.00,2019/05/07,HAL900
 1,freshjp,Q42_Kw,1.00.21,2019/05/14,あきつ
 1,freshjp,Q43_Ct,1.01.30,2019/05/06,HAL900
-1,freshjp,Q43_Kw,1.24.40,2019/05/08,パロ・ウル
+1,freshjp,Q43_Kw,1.10.41,2019/05/15,あきつ
 1,freshjp,Q44_Ct,1.18.60,2019/05/07,HAL900
 1,freshjp,Q44_Kw,1.32.41,2019/05/12,わあい
 1,freshjp,Q45_Ct,32.61,2019/05/14,えみち
@@ -153,7 +153,7 @@
 1,freshjp,Q60_Ct,24.65,2019/05/07,HAL900
 1,freshjp,Q60_Kw,26.91,2019/05/09,パロ・ウル
 1,freshjp,Q61_Ct,1.29.43,2019/05/07,HAL900
-1,freshjp,Q61_Kw,1.01.61,2019/05/12,わあい
+1,freshjp,Q61_Kw,1.01.10,2019/05/15,わあい
 1,freshjp,Q62_Ct,2.59.66,2019/05/07,HAL900
 1,freshjp,Q62_Kw,4.33.46,2019/05/10,パロ・ウル
 1,freshjp,Q63_Ct,59.70,2019/05/05,SDL2
@@ -185,9 +185,9 @@
 1,freshjp,Qc01_Ct,10.41,2019/05/05,cos
 1,freshjp,Qc01_Kw,20.20,2019/05/04,わあい
 1,freshjp,Qc02_Ct,18.13,2019/05/05,わあい
-1,freshjp,Qc02_Kw,1.11.10,2019/05/12,HAL900
+1,freshjp,Qc02_Kw,53.56,2019/05/15,てとら
 1,freshjp,Qc03_Ct,38.68,2019/05/05,SDL2
-1,freshjp,Qc03_Kw,48.66,2019/05/13,HAL900
+1,freshjp,Qc03_Kw,46.55,2019/05/15,てとら
 1,freshjp,Qc04_Ct,1.03.98,2019/05/04,James NX
 1,freshjp,Qc04_Kw,1.14.81,2019/05/12,パロ・ウル
 1,freshjp,Qc05_Ct,1.25.00,2019/05/07,わあい
