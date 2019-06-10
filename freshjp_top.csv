@@ -32,9 +32,9 @@
 1,freshjp,Ch16train_Kw,42.55,2019/05/27,みきちず
 1,freshjp,Ch17harami_Ct,35.71,2019/05/20,こびと
 1,freshjp,Ch17harami_Kw,47.50,2019/05/06,TKDL
-1,freshjp,Q01_Ct,6.43,2019/05/09,manchofu
+1,freshjp,Q01_Ct,6.26,2019/06/10,manchofu
 1,freshjp,Q01_Kw,8.28,2019/05/07,manchofu
-1,freshjp,Q02_Ct,12.83,2019/05/08,manchofu
+1,freshjp,Q02_Ct,12.55,2019/06/10,manchofu
 1,freshjp,Q02_Kw,15.35,2019/05/07,manchofu
 1,freshjp,Q03_Ct,5.36,2019/05/05,manchofu
 1,freshjp,Q03_Kw,5.38,2019/05/05,manchofu
@@ -44,7 +44,7 @@
 1,freshjp,Q05_Kw,6.35,2019/05/05,manchofu
 1,freshjp,Q06_Ct,6.56,2019/05/09,manchofu
 1,freshjp,Q06_Kw,8.91,2019/05/08,manchofu
-1,freshjp,Q07_Ct,12.18,2019/05/27,わあい
+1,freshjp,Q07_Ct,11.63,2019/06/10,manchofu
 1,freshjp,Q07_Kw,18.31,2019/05/09,manchofu
 1,freshjp,Q08_Ct,20.00,2019/05/05,manchofu
 1,freshjp,Q08_Kw,21.68,2019/05/06,manchofu
@@ -52,11 +52,11 @@
 1,freshjp,Q09_Kw,22.80,2019/05/11,manchofu
 1,freshjp,Q10_Ct,11.16,2019/05/10,manchofu
 1,freshjp,Q10_Kw,13.13,2019/05/05,manchofu
-1,freshjp,Q11_Ct,13.95,2019/05/10,manchofu
+1,freshjp,Q11_Ct,13.15,2019/06/10,manchofu
 1,freshjp,Q11_Kw,16.61,2019/05/10,manchofu
 1,freshjp,Q12_Ct,20.30,2019/05/05,manchofu
 1,freshjp,Q12_Kw,20.30,2019/05/05,こびと
-1,freshjp,Q13_Ct,3.98,2019/05/06,manchofu
+1,freshjp,Q13_Ct,3.80,2019/06/10,manchofu
 1,freshjp,Q13_Kw,5.46,2019/05/06,manchofu
 1,freshjp,Q14_Ct,30.00,2019/05/13,manchofu
 1,freshjp,Q14_Kw,34.35,2019/05/12,manchofu
@@ -82,9 +82,9 @@
 1,freshjp,Q24_Kw,32.06,2019/05/20,manchofu
 1,freshjp,Q25_Ct,10.61,2019/06/04,cos
 1,freshjp,Q25_Kw,15.01,2019/05/20,manchofu
-1,freshjp,Q26_Ct,16.95,2019/06/09,gori.sh
+1,freshjp,Q26_Ct,15.50,2019/06/10,manchofu
 1,freshjp,Q26_Kw,18.68,2019/05/21,manchofu
-1,freshjp,Q27_Ct,12.60,2019/05/21,manchofu
+1,freshjp,Q27_Ct,11.88,2019/06/10,manchofu
 1,freshjp,Q27_Kw,19.65,2019/05/21,manchofu
 1,freshjp,Q28_Ct,33.23,2019/05/23,manchofu
 1,freshjp,Q28_Kw,41.10,2019/05/23,manchofu
@@ -135,7 +135,7 @@
 1,freshjp,Q51_Ct,6.78,2019/05/05,manchofu
 1,freshjp,Q51_Kw,9.86,2019/06/08,gori.sh
 1,freshjp,Q52_Ct,27.01,2019/05/24,HAL900
-1,freshjp,Q52_Kw,32.46,2019/05/17,パロ・ウル
+1,freshjp,Q52_Kw,27.25,2019/06/10,gori.sh
 1,freshjp,Q53_Ct,4.06,2019/05/20,cos
 1,freshjp,Q53_Kw,6.21,2019/05/20,cos
 1,freshjp,Q54_Ct,27.00,2019/06/04,HAL900
@@ -146,7 +146,7 @@
 1,freshjp,Q56_Kw,1.21.38,2019/05/19,パロ・ウル
 1,freshjp,Q57_Ct,34.78,2019/05/05,manchofu
 1,freshjp,Q57_Kw,34.76,2019/05/05,manchofu
-1,freshjp,Q58_Ct,50.11,2019/05/17,HAL900
+1,freshjp,Q58_Ct,28.96,2019/06/10,とおろ
 1,freshjp,Q58_Kw,1.12.93,2019/05/09,パロ・ウル
 1,freshjp,Q59_Ct,37.35,2019/06/01,とおろ
 1,freshjp,Q59_Kw,52.83,2019/06/06,パロ・ウル
@@ -190,7 +190,7 @@
 1,freshjp,Qc03_Kw,36.13,2019/05/22,HAL900
 1,freshjp,Qc04_Ct,45.45,2019/05/26,HAL900
 1,freshjp,Qc04_Kw,1.14.81,2019/05/12,パロ・ウル
-1,freshjp,Qc05_Ct,1.04.41,2019/05/26,HAL900
+1,freshjp,Qc05_Ct,49.90,2019/06/10,とおろ
 1,freshjp,Qc05_Kw,1.17.70,2019/06/09,HAL900
 1,freshjp,Qc06_Ct,1.01.20,2019/06/09,HAL900
 1,freshjp,Qc06_Kw,1.05.08,2019/06/09,HAL900
