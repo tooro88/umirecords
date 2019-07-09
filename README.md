@@ -10,7 +10,8 @@ Currently supports:
  * Switch UmiharaKawase Fresh (directory: freshjp)
     * Up to 20th entry for each quest
     * File name conventions:
-       * Qxx, Qcxx: Timeattack for quests
+       * Qxx, Qcxx, Qbxx: Timeattack for quests (Qbxx for Curly's quests)
        * Chxx...: Challenge (see freshname.txt for naming)
        * _Kw: Kawase
        * _Ct: Cotton
+       * _Cb: Curly Brace
