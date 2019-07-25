@@ -6,7 +6,7 @@
 1,freshjp,Ch02cat_Kw,7.55,2019/05/05,guterham
 1,freshjp,Ch03map_Cb,55.26,2019/07/11,みきちず
 1,freshjp,Ch03map_Ct,59.96,2019/07/16,みきちず
-1,freshjp,Ch03map_Kw,1.10.85,2019/06/26,みきちず
+1,freshjp,Ch03map_Kw,1.06.48,2019/07/25,みきちず
 1,freshjp,Ch04tadpole_Cb,19.61,2019/07/19,フォール
 1,freshjp,Ch04tadpole_Ct,20.61,2019/05/05,manchofu
 1,freshjp,Ch04tadpole_Kw,20.61,2019/05/05,manchofu
@@ -19,7 +19,7 @@
 1,freshjp,Ch07hippo_Cb,26.93,2019/07/11,HAL900
 1,freshjp,Ch07hippo_Ct,7.33,2019/06/02,cos
 1,freshjp,Ch07hippo_Kw,11.41,2019/05/17,guterham
-1,freshjp,Ch08pig_Cb,18.48,2019/07/25,フォール
+1,freshjp,Ch08pig_Cb,18.43,2019/07/25,フォール
 1,freshjp,Ch08pig_Ct,28.61,2019/05/05,manchofu
 1,freshjp,Ch08pig_Kw,28.68,2019/06/23,フォール
 1,freshjp,Ch09both_Cb,1.58.60,2019/07/22,SDL2
@@ -118,10 +118,10 @@
 1,freshjp,Q23_Cb,19.51,2019/07/16,もも
 1,freshjp,Q23_Ct,13.65,2019/05/19,manchofu
 1,freshjp,Q23_Kw,27.53,2019/05/19,manchofu
-1,freshjp,Q24_Cb,56.61,2019/07/12,HAL900
+1,freshjp,Q24_Cb,40.71,2019/07/25,もも
 1,freshjp,Q24_Ct,28.43,2019/05/20,manchofu
 1,freshjp,Q24_Kw,32.06,2019/05/20,manchofu
-1,freshjp,Q25_Cb,24.66,2019/07/11,HAL900
+1,freshjp,Q25_Cb,14.50,2019/07/25,もも
 1,freshjp,Q25_Ct,10.61,2019/06/04,cos
 1,freshjp,Q25_Kw,15.01,2019/05/20,manchofu
 1,freshjp,Q26_Cb,36.61,2019/07/13,SDL2
@@ -154,7 +154,7 @@
 1,freshjp,Q35_Cb,1.41.48,2019/07/14,SDL2
 1,freshjp,Q35_Ct,58.38,2019/06/09,HAL900
 1,freshjp,Q35_Kw,1.25.88,2019/06/22,gori.sh
-1,freshjp,Q36_Cb,20.88,2019/07/23,Lvl_Select
+1,freshjp,Q36_Cb,20.48,2019/07/25,もも
 1,freshjp,Q36_Ct,28.61,2019/05/05,manchofu
 1,freshjp,Q36_Kw,28.80,2019/05/05,manchofu
 1,freshjp,Q37_Cb,1.19.46,2019/07/14,SDL2
@@ -274,7 +274,7 @@
 1,freshjp,Q75_Cb,33.13,2019/07/18,NISEPO
 1,freshjp,Q75_Ct,31.96,2019/05/07,こびと
 1,freshjp,Q75_Kw,38.63,2019/07/18,gori.sh
-1,freshjp,Qb01_Cb,8.56,2019/07/20,SDL2
+1,freshjp,Qb01_Cb,7.68,2019/07/25,とおろ
 1,freshjp,Qb01_Ct,7.76,2019/07/25,わあい
 1,freshjp,Qb01_Kw,9.61,2019/07/25,gori.sh
 1,freshjp,Qb02_Cb,25.65,2019/07/22,SDL2
@@ -288,7 +288,7 @@
 1,freshjp,Qb04_Kw,1.11.63,2019/07/24,gori.sh
 1,freshjp,Qb05_Cb,35.55,2019/07/22,VespiVidya
 1,freshjp,Qb05_Ct,1.03.90,2019/07/22,SDL2
-1,freshjp,Qb05_Kw,36.06,2019/07/12,パロ・ウル
+1,freshjp,Qb05_Kw,35.50,2019/07/25,パロ・ウル
 1,freshjp,Qb06_Cb,19.80,2019/07/16,SDL2
 1,freshjp,Qb06_Ct,17.78,2019/07/22,SDL2
 1,freshjp,Qb06_Kw,17.63,2019/07/24,gori.sh
