@@ -7,7 +7,7 @@
 1,freshjp,Ch03map_Cb,54.86,2019/07/28,SDL2
 1,freshjp,Ch03map_Ct,49.11,2019/07/27,SDL2
 1,freshjp,Ch03map_Kw,1.02.75,2019/07/27,みきちず
-1,freshjp,Ch04tadpole_Cb,18.90,2019/07/28,フォール
+1,freshjp,Ch04tadpole_Cb,18.80,2019/07/30,フォール
 1,freshjp,Ch04tadpole_Ct,20.61,2019/05/05,manchofu
 1,freshjp,Ch04tadpole_Kw,20.61,2019/05/05,manchofu
 1,freshjp,Ch05dog_Cb,22.16,2019/07/28,SDL2
@@ -67,7 +67,7 @@
 1,freshjp,Q06_Cb,7.46,2019/07/10,もも
 1,freshjp,Q06_Ct,6.56,2019/05/09,manchofu
 1,freshjp,Q06_Kw,8.91,2019/05/08,manchofu
-1,freshjp,Q07_Cb,17.41,2019/07/12,もも
+1,freshjp,Q07_Cb,15.80,2019/07/30,もも
 1,freshjp,Q07_Ct,11.63,2019/06/10,manchofu
 1,freshjp,Q07_Kw,18.31,2019/05/09,manchofu
 1,freshjp,Q08_Cb,27.96,2019/07/12,もも
@@ -79,7 +79,7 @@
 1,freshjp,Q10_Cb,12.26,2019/07/15,もも
 1,freshjp,Q10_Ct,11.16,2019/05/10,manchofu
 1,freshjp,Q10_Kw,13.13,2019/05/05,manchofu
-1,freshjp,Q11_Cb,17.60,2019/07/13,もも
+1,freshjp,Q11_Cb,17.31,2019/07/30,もも
 1,freshjp,Q11_Ct,13.15,2019/06/10,manchofu
 1,freshjp,Q11_Kw,16.61,2019/05/10,manchofu
 1,freshjp,Q12_Cb,19.13,2019/07/21,どりる
@@ -130,16 +130,16 @@
 1,freshjp,Q27_Cb,27.70,2019/07/13,SDL2
 1,freshjp,Q27_Ct,11.88,2019/06/10,manchofu
 1,freshjp,Q27_Kw,19.65,2019/05/21,manchofu
-1,freshjp,Q28_Cb,1.09.10,2019/07/09,HAL900
+1,freshjp,Q28_Cb,47.00,2019/07/30,もも
 1,freshjp,Q28_Ct,33.23,2019/05/23,manchofu
 1,freshjp,Q28_Kw,41.10,2019/05/23,manchofu
-1,freshjp,Q29_Cb,1.36.38,2019/07/13,SDL2
+1,freshjp,Q29_Cb,1.07.93,2019/07/30,もも
 1,freshjp,Q29_Ct,41.65,2019/05/24,manchofu
 1,freshjp,Q29_Kw,55.41,2019/05/24,manchofu
 1,freshjp,Q30_Cb,54.23,2019/07/13,SDL2
 1,freshjp,Q30_Ct,22.06,2019/07/19,とおろ
 1,freshjp,Q30_Kw,44.26,2019/05/26,manchofu
-1,freshjp,Q31_Cb,25.26,2019/07/14,SDL2
+1,freshjp,Q31_Cb,11.76,2019/07/30,もも
 1,freshjp,Q31_Ct,9.10,2019/05/27,manchofu
 1,freshjp,Q31_Kw,17.25,2019/05/27,manchofu
 1,freshjp,Q32_Cb,52.78,2019/07/14,SDL2
@@ -184,7 +184,7 @@
 1,freshjp,Q45_Cb,43.06,2019/07/11,HAL900
 1,freshjp,Q45_Ct,18.85,2019/06/13,manchofu
 1,freshjp,Q45_Kw,19.50,2019/06/13,manchofu
-1,freshjp,Q46_Cb,19.43,2019/07/14,SDL2
+1,freshjp,Q46_Cb,17.45,2019/07/30,もも
 1,freshjp,Q46_Ct,7.80,2019/06/15,manchofu
 1,freshjp,Q46_Kw,9.33,2019/06/08,わあい
 1,freshjp,Q47_Cb,37.10,2019/07/14,SDL2
