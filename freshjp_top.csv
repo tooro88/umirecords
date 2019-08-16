@@ -1,5 +1,5 @@
 1,freshjp,Ch01acorn_Cb,9.73,2019/08/07,もも
-1,freshjp,Ch01acorn_Ct,8.86,2019/08/15,cos
+1,freshjp,Ch01acorn_Ct,7.86,2019/08/17,cos
 1,freshjp,Ch01acorn_Kw,12.35,2019/05/08,guterham
 1,freshjp,Ch02cat_Cb,7.55,2019/07/22,SDL2
 1,freshjp,Ch02cat_Ct,7.36,2019/06/04,すいかっち
@@ -19,12 +19,12 @@
 1,freshjp,Ch07hippo_Cb,9.06,2019/07/27,SDL2
 1,freshjp,Ch07hippo_Ct,7.33,2019/06/02,cos
 1,freshjp,Ch07hippo_Kw,11.41,2019/05/17,guterham
-1,freshjp,Ch08pig_Cb,18.43,2019/07/25,フォール
+1,freshjp,Ch08pig_Cb,18.40,2019/08/17,フォール
 1,freshjp,Ch08pig_Ct,28.61,2019/05/05,manchofu
 1,freshjp,Ch08pig_Kw,28.68,2019/06/23,フォール
 1,freshjp,Ch09both_Cb,1.58.60,2019/07/22,SDL2
 1,freshjp,Ch09both_Ct,1.10.61,2019/08/12,SDL2
-1,freshjp,Ch09both_Kw,2.25.11,2019/05/06,ふぁじい
+1,freshjp,Ch09both_Kw,2.19.21,2019/08/17,みきちず
 1,freshjp,Ch10which_Cb,11.11,2019/07/28,SDL2
 1,freshjp,Ch10which_Ct,10.86,2019/06/02,SDL2
 1,freshjp,Ch10which_Kw,12.30,2019/05/22,guterham
@@ -99,7 +99,7 @@
 1,freshjp,Q16_Kw,12.23,2019/05/14,manchofu
 1,freshjp,Q17_Cb,34.03,2019/07/16,もも
 1,freshjp,Q17_Ct,25.10,2019/05/14,manchofu
-1,freshjp,Q17_Kw,21.81,2019/08/15,gori.sh
+1,freshjp,Q17_Kw,21.63,2019/08/17,gori.sh
 1,freshjp,Q18_Cb,35.10,2019/07/16,もも
 1,freshjp,Q18_Ct,24.65,2019/05/14,manchofu
 1,freshjp,Q18_Kw,26.95,2019/08/15,gori.sh
@@ -240,12 +240,12 @@
 1,freshjp,Q63_Kw,1.10.08,2019/06/29,gori.sh
 1,freshjp,Q64_Cb,3.46.56,2019/07/16,SDL2
 1,freshjp,Q64_Ct,2.22.65,2019/06/14,とおろ
-1,freshjp,Q64_Kw,2.32.45,2019/07/22,パロ・ウル
+1,freshjp,Q64_Kw,2.30.08,2019/08/17,パロ・ウル
 1,freshjp,Q65_Cb,22.21,2019/07/16,SDL2
 1,freshjp,Q65_Ct,16.63,2019/05/05,こびと
 1,freshjp,Q65_Kw,17.38,2019/07/04,わあい
 1,freshjp,Q66_Cb,25.46,2019/07/16,SDL2
-1,freshjp,Q66_Ct,16.61,2019/08/15,SDL2
+1,freshjp,Q66_Ct,16.55,2019/08/17,cos
 1,freshjp,Q66_Kw,22.75,2019/07/04,gori.sh
 1,freshjp,Q67_Cb,1.48.13,2019/07/16,SDL2
 1,freshjp,Q67_Ct,44.63,2019/05/22,とおろ
@@ -267,7 +267,7 @@
 1,freshjp,Q72_Kw,6.23,2019/05/10,cos
 1,freshjp,Q73_Cb,3.51.05,2019/07/13,みっちゃん!
 1,freshjp,Q73_Ct,2.33.18,2019/06/29,とおろ
-1,freshjp,Q73_Kw,2.41.05,2019/07/28,パロ・ウル
+1,freshjp,Q73_Kw,2.40.65,2019/08/17,パロ・ウル
 1,freshjp,Q74_Cb,1.56.28,2019/07/13,みっちゃん!
 1,freshjp,Q74_Ct,1.38.05,2019/07/07,HAL900
 1,freshjp,Q74_Kw,1.38.68,2019/07/18,gori.sh
