@@ -19,7 +19,7 @@
 1,freshjp,Ch07hippo_Cb,9.06,2019/07/27,SDL2
 1,freshjp,Ch07hippo_Ct,6.78,2019/08/24,SDL2
 1,freshjp,Ch07hippo_Kw,11.41,2019/05/17,guterham
-1,freshjp,Ch08pig_Cb,18.40,2019/08/17,フォール
+1,freshjp,Ch08pig_Cb,18.38,2019/10/12,フォール
 1,freshjp,Ch08pig_Ct,28.61,2019/05/05,manchofu
 1,freshjp,Ch08pig_Kw,28.68,2019/06/23,フォール
 1,freshjp,Ch09both_Cb,1.58.60,2019/07/22,SDL2
@@ -50,7 +50,7 @@
 1,freshjp,Ch17harami_Ct,35.71,2019/05/20,こびと
 1,freshjp,Ch17harami_Kw,47.30,2019/07/06,サムソン・アラン
 1,freshjp,Ch18UK42_Cb,7.88,2019/10/11,gori.sh
-1,freshjp,Ch18UK42_Ct,6.66,2019/10/06,SDL2
+1,freshjp,Ch18UK42_Ct,6.48,2019/10/12,SDL2
 1,freshjp,Ch18UK42_Kw,15.90,2019/10/11,ふぁじい
 1,freshjp,Ch19shun42_Cb,19.46,2019/10/01,SDL2
 1,freshjp,Ch19shun42_Ct,14.95,2019/10/06,SDL2
@@ -221,7 +221,7 @@
 1,freshjp,Q54_Ct,19.26,2019/06/21,manchofu
 1,freshjp,Q54_Kw,24.05,2019/06/21,manchofu
 1,freshjp,Q55_Cb,5.36.93,2019/07/14,SDL2
-1,freshjp,Q55_Ct,2.58.58,2019/06/04,HAL900
+1,freshjp,Q55_Ct,2.12.33,2019/10/12,HAL900
 1,freshjp,Q55_Kw,2.30.93,2019/08/25,わあい
 1,freshjp,Q56_Cb,1.35.33,2019/07/14,SDL2
 1,freshjp,Q56_Ct,34.53,2019/06/25,manchofu
