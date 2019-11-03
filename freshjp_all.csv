@@ -101,9 +101,9 @@
 4,freshjp,Ch03map_Cb,5.57.36,2019/07/11,どりる
 5,freshjp,Ch03map_Cb,12.20.61,2019/09/20,レンタヒーロー
 6,freshjp,Ch03map_Cb,13.07.46,2019/07/11,いまでぃ
-1,freshjp,Ch03map_Ct,43.75,2019/08/12,SDL2
+1,freshjp,Ch03map_Ct,40.91,2019/11/03,SDL2
 2,freshjp,Ch03map_Ct,59.96,2019/07/16,みきちず
-3,freshjp,Ch03map_Ct,1.15.78,2019/07/09,HAL900
+3,freshjp,Ch03map_Ct,1.09.65,2019/11/03,HAL900
 4,freshjp,Ch03map_Ct,1.38.81,2019/08/03,ATI
 5,freshjp,Ch03map_Ct,1.43.80,2019/05/06,145
 6,freshjp,Ch03map_Ct,1.44.46,2019/05/14,まもる
@@ -395,7 +395,7 @@
 1,freshjp,Ch09both_Cb,1.58.60,2019/07/22,SDL2
 2,freshjp,Ch09both_Cb,15.07.55,2019/07/14,いまでぃ
 1,freshjp,Ch09both_Ct,58.95,2019/08/25,SDL2
-2,freshjp,Ch09both_Ct,1.24.53,2019/06/21,HAL900
+2,freshjp,Ch09both_Ct,1.23.70,2019/11/03,HAL900
 3,freshjp,Ch09both_Ct,1.39.98,2019/06/25,まんさく
 4,freshjp,Ch09both_Ct,2.44.51,2019/07/04,ぐんちゃそ
 5,freshjp,Ch09both_Ct,3.10.41,2019/05/12,まもる
@@ -673,8 +673,8 @@
 2,freshjp,Ch15marathon_Ct,27.88,2019/05/06,145
 3,freshjp,Ch15marathon_Ct,30.95,2019/06/19,まんさく
 4,freshjp,Ch15marathon_Ct,33.20,2019/05/12,フォール
-5,freshjp,Ch15marathon_Ct,36.60,2019/05/05,ひすい
-6,freshjp,Ch15marathon_Ct,37.53,2019/06/12,HAL900
+5,freshjp,Ch15marathon_Ct,35.66,2019/11/03,HAL900
+6,freshjp,Ch15marathon_Ct,36.60,2019/05/05,ひすい
 7,freshjp,Ch15marathon_Ct,39.01,2019/06/25,NISEPO
 8,freshjp,Ch15marathon_Ct,39.61,2019/05/10,しきみ
 9,freshjp,Ch15marathon_Ct,40.06,2019/05/05,こんたん
@@ -714,7 +714,7 @@
 3,freshjp,Ch16train_Cb,3.03.48,2019/07/12,いまでぃ
 1,freshjp,Ch16train_Ct,28.10,2019/08/20,SDL2
 2,freshjp,Ch16train_Ct,35.15,2019/05/13,みきちず
-3,freshjp,Ch16train_Ct,46.56,2019/07/09,HAL900
+3,freshjp,Ch16train_Ct,44.13,2019/11/03,HAL900
 4,freshjp,Ch16train_Ct,46.78,2019/05/25,ハヒーベベ
 5,freshjp,Ch16train_Ct,53.23,2019/06/26,いまでぃ
 6,freshjp,Ch16train_Ct,54.40,2019/05/05,こびと
@@ -3161,6 +3161,7 @@
 14,freshjp,Q56_Kw,3.49.41,2019/05/21,ぴす
 15,freshjp,Q56_Kw,3.50.66,2019/07/18,いまでぃ
 16,freshjp,Q56_Kw,4.08.58,2019/06/17,ワドワド
+17,freshjp,Q56_Kw,13.42.46,2019/11/03,さわのつり
 1,freshjp,Q57_Cb,20.86,2019/08/28,もも
 2,freshjp,Q57_Cb,23.18,2019/08/04,ふじやま
 3,freshjp,Q57_Cb,23.43,2019/07/29,Lvl_Select
