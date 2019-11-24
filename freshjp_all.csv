@@ -56,8 +56,8 @@
 3,freshjp,Ch02cat_Cb,12.80,2019/07/11,HAL900
 4,freshjp,Ch02cat_Cb,17.55,2019/07/11,Stephen
 5,freshjp,Ch02cat_Cb,24.00,2019/07/13,いまでぃ
-1,freshjp,Ch02cat_Ct,7.13,2019/09/09,cos
-2,freshjp,Ch02cat_Ct,7.28,2019/08/25,SDL2
+1,freshjp,Ch02cat_Ct,6.43,2019/11/24,SDL2
+2,freshjp,Ch02cat_Ct,7.13,2019/09/09,cos
 3,freshjp,Ch02cat_Ct,7.36,2019/06/04,すいかっち
 4,freshjp,Ch02cat_Ct,8.30,2019/05/05,gori.sh
 5,freshjp,Ch02cat_Ct,8.46,2019/05/06,guterham
@@ -672,7 +672,7 @@
 1,freshjp,Ch15marathon_Cb,39.33,2019/07/29,SDL2
 2,freshjp,Ch15marathon_Cb,1.45.35,2019/11/21,ねこだいすき
 3,freshjp,Ch15marathon_Cb,2.35.26,2019/07/14,いまでぃ
-1,freshjp,Ch15marathon_Ct,20.81,2019/11/23,SDL2
+1,freshjp,Ch15marathon_Ct,19.98,2019/11/24,SDL2
 2,freshjp,Ch15marathon_Ct,27.88,2019/05/06,145
 3,freshjp,Ch15marathon_Ct,30.95,2019/06/19,まんさく
 4,freshjp,Ch15marathon_Ct,33.20,2019/05/12,フォール
@@ -3989,9 +3989,9 @@
 2,freshjp,Qb06_Cb,19.80,2019/07/16,SDL2
 3,freshjp,Qb06_Cb,1.17.61,2019/07/11,ワニくん
 4,freshjp,Qb06_Cb,3.09.28,2019/07/22,ワドワド
-1,freshjp,Qb06_Ct,16.45,2019/11/17,パロ・ウル
-2,freshjp,Qb06_Ct,17.45,2019/08/08,みっちゃん!
-3,freshjp,Qb06_Ct,17.78,2019/07/22,SDL2
+1,freshjp,Qb06_Ct,12.81,2019/11/24,SDL2
+2,freshjp,Qb06_Ct,16.45,2019/11/17,パロ・ウル
+3,freshjp,Qb06_Ct,17.45,2019/08/08,みっちゃん!
 4,freshjp,Qb06_Ct,18.30,2019/08/12,HAL900
 5,freshjp,Qb06_Ct,1.39.43,2019/08/01,いまでぃ
 6,freshjp,Qb06_Ct,2.19.53,2019/10/05,Pat
@@ -4105,7 +4105,7 @@
 20,freshjp,Qc01_Kw,1.10.30,2019/07/11,けん
 1,freshjp,Qc02_Cb,18.58,2019/07/16,SDL2
 2,freshjp,Qc02_Cb,24.30,2019/07/22,みっちゃん!
-1,freshjp,Qc02_Ct,12.41,2019/09/14,SDL2
+1,freshjp,Qc02_Ct,11.70,2019/11/24,SDL2
 2,freshjp,Qc02_Ct,13.06,2019/07/02,わあい
 3,freshjp,Qc02_Ct,17.48,2019/07/22,みっちゃん!
 4,freshjp,Qc02_Ct,18.80,2019/11/21,パロ・ウル
@@ -4270,7 +4270,7 @@
 7,freshjp,Qc07_Cb,31.96,2019/08/20,Lvl_Select
 8,freshjp,Qc07_Cb,41.65,2019/07/11,じゅんじゅん
 9,freshjp,Qc07_Cb,1.06.05,2019/07/25,みっちゃん!
-1,freshjp,Qc07_Ct,9.76,2019/11/23,フォール
+1,freshjp,Qc07_Ct,9.66,2019/11/24,フォール
 2,freshjp,Qc07_Ct,12.35,2019/09/14,SDL2
 3,freshjp,Qc07_Ct,14.86,2019/11/17,パロ・ウル
 4,freshjp,Qc07_Ct,18.98,2019/07/26,VespiVidya
