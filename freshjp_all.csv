@@ -76,8 +76,8 @@
 18,freshjp,Ch02cat_Ct,10.66,2019/05/08,つい
 19,freshjp,Ch02cat_Ct,10.81,2019/05/19,SH_M-KAI
 20,freshjp,Ch02cat_Ct,10.83,2019/05/06,ざっし一
-1,freshjp,Ch02cat_Kw,7.55,2019/05/05,guterham
-2,freshjp,Ch02cat_Kw,7.75,2019/12/07,SDL2
+1,freshjp,Ch02cat_Kw,7.36,2019/12/14,SDL2
+2,freshjp,Ch02cat_Kw,7.55,2019/05/05,guterham
 3,freshjp,Ch02cat_Kw,8.85,2019/05/19,すいかっち
 4,freshjp,Ch02cat_Kw,8.88,2019/05/06,gori.sh
 5,freshjp,Ch02cat_Kw,8.96,2019/05/05,MOGUL MOVE
@@ -205,7 +205,7 @@
 1,freshjp,Ch05dog_Cb,22.16,2019/07/28,SDL2
 2,freshjp,Ch05dog_Cb,2.29.88,2019/07/11,どりる
 3,freshjp,Ch05dog_Cb,6.46.05,2019/07/13,いまでぃ
-1,freshjp,Ch05dog_Ct,13.38,2019/10/19,SDL2
+1,freshjp,Ch05dog_Ct,12.20,2019/12/14,SDL2
 2,freshjp,Ch05dog_Ct,14.61,2019/06/01,わあい
 3,freshjp,Ch05dog_Ct,16.96,2019/05/12,manchofu
 4,freshjp,Ch05dog_Ct,23.35,2019/05/31,Woop
@@ -850,9 +850,9 @@
 15,freshjp,Ch18UK42_Kw,38.10,2019/11/21,こたつねこ
 16,freshjp,Ch18UK42_Kw,39.81,2019/10/22,サムソン・アラン
 17,freshjp,Ch18UK42_Kw,40.66,2019/09/30,Days
-18,freshjp,Ch18UK42_Kw,46.86,2019/10/06,よんたん
-19,freshjp,Ch18UK42_Kw,47.15,2019/09/30,hibaly
-20,freshjp,Ch18UK42_Kw,50.03,2019/10/10,みっちゃん!
+18,freshjp,Ch18UK42_Kw,46.81,2019/12/14,いまでぃ
+19,freshjp,Ch18UK42_Kw,46.86,2019/10/06,よんたん
+20,freshjp,Ch18UK42_Kw,47.15,2019/09/30,hibaly
 1,freshjp,Ch19shun42_Cb,19.46,2019/10/01,SDL2
 2,freshjp,Ch19shun42_Cb,22.35,2019/10/06,わあい
 3,freshjp,Ch19shun42_Cb,26.21,2019/10/19,おに
@@ -1541,10 +1541,10 @@
 14,freshjp,Q12_Kw,20.58,2019/07/21,VespiVidya
 15,freshjp,Q12_Kw,20.58,2019/07/29,Lvl_Select
 16,freshjp,Q12_Kw,20.70,2019/05/14,みーり
-17,freshjp,Q12_Kw,20.76,2019/06/24,ゲんマタ
-18,freshjp,Q12_Kw,20.76,2019/09/05,みっちゃん!
-19,freshjp,Q12_Kw,20.81,2019/05/26,LoriMuayu
-20,freshjp,Q12_Kw,20.85,2019/09/24,ヒトかナニか
+17,freshjp,Q12_Kw,20.75,2019/12/14,asq
+18,freshjp,Q12_Kw,20.76,2019/06/24,ゲんマタ
+19,freshjp,Q12_Kw,20.76,2019/09/05,みっちゃん!
+20,freshjp,Q12_Kw,20.81,2019/05/26,LoriMuayu
 1,freshjp,Q13_Cb,3.95,2019/09/12,cos
 2,freshjp,Q13_Cb,4.26,2019/09/09,もも
 3,freshjp,Q13_Cb,4.65,2019/09/11,TKDL
