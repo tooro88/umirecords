@@ -29,7 +29,7 @@
 16,freshjp,Ch01acorn_Ct,17.16,2019/06/08,ハダヤン
 17,freshjp,Ch01acorn_Ct,17.38,2019/05/12,ハヒーベベ
 18,freshjp,Ch01acorn_Ct,17.63,2019/06/02,Boss
-19,freshjp,Ch01acorn_Ct,19.00,2019/09/28,イカ
+19,freshjp,Ch01acorn_Ct,18.08,2019/12/20,イカ
 20,freshjp,Ch01acorn_Ct,19.01,2019/09/05,Samuel
 1,freshjp,Ch01acorn_Kw,12.35,2019/05/08,guterham
 2,freshjp,Ch01acorn_Kw,12.45,2019/05/12,ふぁじい
@@ -378,7 +378,7 @@
 2,freshjp,Ch08pig_Kw,28.80,2019/05/05,manchofu
 3,freshjp,Ch08pig_Kw,28.80,2019/06/16,みきちず
 4,freshjp,Ch08pig_Kw,28.85,2019/08/23,もも
-5,freshjp,Ch08pig_Kw,29.30,2019/12/18,asq
+5,freshjp,Ch08pig_Kw,28.96,2019/12/20,asq
 6,freshjp,Ch08pig_Kw,29.46,2019/05/15,はこいりきつね
 7,freshjp,Ch08pig_Kw,29.55,2019/07/22,Lvl_Select
 8,freshjp,Ch08pig_Kw,29.71,2019/10/20,どりる
@@ -416,7 +416,7 @@
 18,freshjp,Ch09both_Ct,7.27.60,2019/05/10,タドゥー
 19,freshjp,Ch09both_Ct,8.08.98,2019/05/06,NECOMATA
 20,freshjp,Ch09both_Ct,8.42.61,2019/09/05,あやきぬ
-1,freshjp,Ch09both_Kw,1.58.40,2019/12/18,みきちず
+1,freshjp,Ch09both_Kw,1.52.00,2019/12/20,みきちず
 2,freshjp,Ch09both_Kw,2.25.11,2019/05/06,ふぁじい
 3,freshjp,Ch09both_Kw,2.26.36,2019/05/05,あきつ
 4,freshjp,Ch09both_Kw,2.48.06,2019/06/17,ワニくん
@@ -832,7 +832,7 @@
 17,freshjp,Ch18UK42_Ct,22.30,2019/10/01,フォール
 18,freshjp,Ch18UK42_Ct,22.65,2019/12/14,masaki
 19,freshjp,Ch18UK42_Ct,23.76,2019/10/12,レンタヒーロー
-20,freshjp,Ch18UK42_Ct,25.50,2019/10/01,ほねなしちきん
+20,freshjp,Ch18UK42_Ct,24.16,2019/12/20,ガチと〆とchanと
 1,freshjp,Ch18UK42_Kw,15.90,2019/10/11,ふぁじい
 2,freshjp,Ch18UK42_Kw,18.25,2019/09/30,みきちず
 3,freshjp,Ch18UK42_Kw,21.30,2019/10/20,パロ・ウル
@@ -881,7 +881,7 @@
 1,freshjp,Ch19shun42_Kw,23.26,2019/10/22,ふぁじい
 2,freshjp,Ch19shun42_Kw,24.08,2019/10/16,みきちず
 3,freshjp,Ch19shun42_Kw,35.41,2019/10/02,たにえる
-4,freshjp,Ch19shun42_Kw,47.18,2019/12/11,ワニくん
+4,freshjp,Ch19shun42_Kw,42.56,2019/12/20,ワニくん
 5,freshjp,Ch19shun42_Kw,47.50,2019/10/06,SDL2
 6,freshjp,Ch19shun42_Kw,47.71,2019/09/30,TKDL
 7,freshjp,Ch19shun42_Kw,56.23,2019/10/11,パロ・ウル
@@ -1122,9 +1122,9 @@
 13,freshjp,Q04_Cb,41.15,2019/11/21,necomata
 14,freshjp,Q04_Cb,41.70,2019/08/05,Gravidus
 1,freshjp,Q04_Ct,7.33,2019/05/05,manchofu
-2,freshjp,Q04_Ct,7.93,2019/09/16,SDL2
-3,freshjp,Q04_Ct,8.18,2019/06/10,HAL900
-4,freshjp,Q04_Ct,8.43,2019/12/04,パロ・ウル
+2,freshjp,Q04_Ct,7.80,2019/12/20,パロ・ウル
+3,freshjp,Q04_Ct,7.93,2019/09/16,SDL2
+4,freshjp,Q04_Ct,8.18,2019/06/10,HAL900
 5,freshjp,Q04_Ct,9.01,2019/07/08,ふじやま
 6,freshjp,Q04_Ct,9.21,2019/06/27,もも
 7,freshjp,Q04_Ct,10.15,2019/05/20,みっちゃん!
@@ -1176,7 +1176,7 @@
 3,freshjp,Q05_Ct,6.45,2019/09/15,SDL2
 4,freshjp,Q05_Ct,6.51,2019/08/04,ふじやま
 5,freshjp,Q05_Ct,6.51,2019/08/20,フォール
-6,freshjp,Q05_Ct,6.60,2019/11/30,パロ・ウル
+6,freshjp,Q05_Ct,6.56,2019/12/20,パロ・ウル
 7,freshjp,Q05_Ct,7.91,2019/08/22,ZZ_Rinrei#
 8,freshjp,Q05_Ct,8.50,2019/05/28,まもる
 9,freshjp,Q05_Ct,9.16,2019/06/12,ブルータス
@@ -2516,8 +2516,8 @@
 19,freshjp,Q36_Ct,44.71,2019/05/05,Ftea
 20,freshjp,Q36_Ct,47.28,2019/07/22,いまでぃ
 1,freshjp,Q36_Kw,28.80,2019/05/05,manchofu
-2,freshjp,Q36_Kw,29.01,2019/08/22,もも
-3,freshjp,Q36_Kw,29.06,2019/12/18,asq
+2,freshjp,Q36_Kw,28.96,2019/12/20,asq
+3,freshjp,Q36_Kw,29.01,2019/08/22,もも
 4,freshjp,Q36_Kw,29.25,2019/09/26,でら
 5,freshjp,Q36_Kw,29.38,2019/07/29,Lvl_Select
 6,freshjp,Q36_Kw,29.60,2019/08/18,パロ・ウル
