@@ -442,8 +442,8 @@
 18,freshjp,Ch09both_Kw,17.16.95,2019/05/15,MOGUL MOVE
 19,freshjp,Ch09both_Kw,19.17.76,2019/07/14,マター
 20,freshjp,Ch09both_Kw,20.05.06,2019/07/25,ぽここ
-1,freshjp,Ch10which_Cb,11.00,2020/01/10,みきちず
-2,freshjp,Ch10which_Cb,11.11,2019/07/28,SDL2
+1,freshjp,Ch10which_Cb,9.71,2020/01/12,SDL2
+2,freshjp,Ch10which_Cb,11.00,2020/01/10,みきちず
 3,freshjp,Ch10which_Cb,21.51,2019/07/11,HAL900
 4,freshjp,Ch10which_Cb,40.08,2019/07/14,いまでぃ
 1,freshjp,Ch10which_Ct,7.38,2019/08/17,SDL2
@@ -502,13 +502,13 @@
 11,freshjp,Ch11stroll_Ct,21.81,2019/06/19,Muu
 12,freshjp,Ch11stroll_Ct,22.35,2019/07/19,フウタ
 13,freshjp,Ch11stroll_Ct,22.60,2019/05/05,えーじ
-14,freshjp,Ch11stroll_Ct,24.56,2019/05/06,NECOMATA
-15,freshjp,Ch11stroll_Ct,25.26,2019/06/08,ハダヤン
-16,freshjp,Ch11stroll_Ct,25.51,2019/05/05,ひすい
-17,freshjp,Ch11stroll_Ct,26.21,2019/05/25,まんさく
-18,freshjp,Ch11stroll_Ct,26.65,2019/05/05,みなみぜう
-19,freshjp,Ch11stroll_Ct,28.05,2019/05/27,かまくら
-20,freshjp,Ch11stroll_Ct,31.26,2019/08/04,harmo
+14,freshjp,Ch11stroll_Ct,22.63,2020/01/12,ガチと〆とchanと
+15,freshjp,Ch11stroll_Ct,24.56,2019/05/06,NECOMATA
+16,freshjp,Ch11stroll_Ct,25.26,2019/06/08,ハダヤン
+17,freshjp,Ch11stroll_Ct,25.51,2019/05/05,ひすい
+18,freshjp,Ch11stroll_Ct,26.21,2019/05/25,まんさく
+19,freshjp,Ch11stroll_Ct,26.65,2019/05/05,みなみぜう
+20,freshjp,Ch11stroll_Ct,28.05,2019/05/27,かまくら
 1,freshjp,Ch11stroll_Kw,15.60,2019/05/31,みきちず
 2,freshjp,Ch11stroll_Kw,15.90,2019/06/01,SDL2
 3,freshjp,Ch11stroll_Kw,16.13,2019/05/05,ふぁじい
@@ -680,8 +680,8 @@
 18,freshjp,Ch14blowfish_Kw,30.63,2019/05/05,オオサンショウウオ
 19,freshjp,Ch14blowfish_Kw,31.20,2019/05/20,いまでぃ
 20,freshjp,Ch14blowfish_Kw,31.41,2019/05/20,かまくら
-1,freshjp,Ch15marathon_Cb,24.86,2020/01/06,みきちず
-2,freshjp,Ch15marathon_Cb,39.33,2019/07/29,SDL2
+1,freshjp,Ch15marathon_Cb,24.25,2020/01/12,SDL2
+2,freshjp,Ch15marathon_Cb,24.86,2020/01/06,みきちず
 3,freshjp,Ch15marathon_Cb,1.45.35,2019/11/21,ねこだいすき
 4,freshjp,Ch15marathon_Cb,2.35.26,2019/07/14,いまでぃ
 1,freshjp,Ch15marathon_Ct,19.98,2019/11/24,SDL2
@@ -825,6 +825,7 @@
 7,freshjp,Ch18UK42_Cb,33.58,2019/10/12,レンタヒーロー
 8,freshjp,Ch18UK42_Cb,1.11.91,2019/10/15,はずき
 9,freshjp,Ch18UK42_Cb,1.44.53,2019/10/02,CWS
+10,freshjp,Ch18UK42_Cb,2.04.86,2020/01/12,HIRO
 1,freshjp,Ch18UK42_Ct,6.36,2019/11/09,SDL2
 2,freshjp,Ch18UK42_Ct,7.35,2019/10/01,わあい
 3,freshjp,Ch18UK42_Ct,10.26,2019/10/01,こびと
@@ -839,10 +840,10 @@
 12,freshjp,Ch18UK42_Ct,14.51,2019/09/30,CWS
 13,freshjp,Ch18UK42_Ct,15.03,2019/10/27,たかあき
 14,freshjp,Ch18UK42_Ct,15.50,2020/01/05,HIRO
-15,freshjp,Ch18UK42_Ct,16.58,2019/10/15,どりる
-16,freshjp,Ch18UK42_Ct,16.93,2019/10/07,Pat
-17,freshjp,Ch18UK42_Ct,16.93,2019/12/14,やねちみつ
-18,freshjp,Ch18UK42_Ct,18.71,2019/12/23,ガチと〆とchanと
+15,freshjp,Ch18UK42_Ct,16.05,2020/01/12,ガチと〆とchanと
+16,freshjp,Ch18UK42_Ct,16.58,2019/10/15,どりる
+17,freshjp,Ch18UK42_Ct,16.93,2019/10/07,Pat
+18,freshjp,Ch18UK42_Ct,16.93,2019/12/14,やねちみつ
 19,freshjp,Ch18UK42_Ct,19.75,2019/10/10,gori.sh
 20,freshjp,Ch18UK42_Ct,21.76,2019/09/30,えびす!
 1,freshjp,Ch18UK42_Kw,15.90,2019/10/11,ふぁじい
@@ -3928,8 +3929,8 @@
 1,freshjp,Qb01_Ct,7.00,2019/11/02,SDL2
 2,freshjp,Qb01_Ct,7.76,2019/07/25,わあい
 3,freshjp,Qb01_Ct,7.96,2019/07/25,cos
-4,freshjp,Qb01_Ct,9.03,2019/07/13,HAL900
-5,freshjp,Qb01_Ct,9.45,2019/12/03,パロ・ウル
+4,freshjp,Qb01_Ct,8.85,2020/01/12,パロ・ウル
+5,freshjp,Qb01_Ct,9.03,2019/07/13,HAL900
 6,freshjp,Qb01_Ct,9.71,2019/07/14,Runx2
 7,freshjp,Qb01_Ct,9.78,2019/07/25,みっちゃん!
 8,freshjp,Qb01_Ct,12.55,2019/10/05,Pat
@@ -3979,7 +3980,7 @@
 5,freshjp,Qb03_Cb,1.06.30,2019/07/12,どりる
 1,freshjp,Qb03_Ct,11.46,2019/08/02,cos
 2,freshjp,Qb03_Ct,11.80,2019/08/01,とおろ
-3,freshjp,Qb03_Ct,12.36,2019/11/29,パロ・ウル
+3,freshjp,Qb03_Ct,12.00,2020/01/12,パロ・ウル
 4,freshjp,Qb03_Ct,12.43,2019/07/22,SDL2
 5,freshjp,Qb03_Ct,12.85,2019/12/30,HAL900
 6,freshjp,Qb03_Ct,14.45,2019/08/01,みっちゃん!
