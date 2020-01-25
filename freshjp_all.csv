@@ -51,7 +51,7 @@
 17,freshjp,Ch01acorn_Kw,21.85,2019/05/05,ソロ
 18,freshjp,Ch01acorn_Kw,22.81,2019/05/12,HAL900
 19,freshjp,Ch01acorn_Kw,22.93,2019/05/05,こびと
-20,freshjp,Ch01acorn_Kw,23.96,2019/05/12,すいかっち
+20,freshjp,Ch01acorn_Kw,23.33,2020/01/25,IcySpoon
 1,freshjp,Ch02cat_Cb,5.93,2019/12/07,SDL2
 2,freshjp,Ch02cat_Cb,11.61,2019/07/11,どりる
 3,freshjp,Ch02cat_Cb,12.80,2019/07/11,HAL900
@@ -183,9 +183,9 @@
 15,freshjp,Ch04tadpole_Ct,22.18,2019/07/27,masaa
 16,freshjp,Ch04tadpole_Ct,22.30,2019/05/05,ヒトかナニか
 17,freshjp,Ch04tadpole_Ct,22.40,2019/06/27,afro-train
-18,freshjp,Ch04tadpole_Ct,22.66,2019/05/12,Tail
-19,freshjp,Ch04tadpole_Ct,22.78,2019/06/21,HAL900
-20,freshjp,Ch04tadpole_Ct,23.01,2019/05/31,ワニくん
+18,freshjp,Ch04tadpole_Ct,22.48,2020/01/25,IcySpoon
+19,freshjp,Ch04tadpole_Ct,22.66,2019/05/12,Tail
+20,freshjp,Ch04tadpole_Ct,22.78,2019/06/21,HAL900
 1,freshjp,Ch04tadpole_Kw,20.61,2019/05/05,manchofu
 2,freshjp,Ch04tadpole_Kw,20.61,2019/06/02,つもつも
 3,freshjp,Ch04tadpole_Kw,20.61,2019/10/02,フォール
@@ -296,7 +296,7 @@
 18,freshjp,Ch06dandelion_Kw,1.01.53,2019/05/05,James NX
 19,freshjp,Ch06dandelion_Kw,1.03.71,2019/07/04,stm
 20,freshjp,Ch06dandelion_Kw,1.06.33,2019/06/02,ばくさんのサーバル
-1,freshjp,Ch07hippo_Cb,7.25,2019/12/15,SDL2
+1,freshjp,Ch07hippo_Cb,7.23,2020/01/25,SDL2
 2,freshjp,Ch07hippo_Cb,26.93,2019/07/11,HAL900
 3,freshjp,Ch07hippo_Cb,30.21,2020/01/16,banjo4life
 4,freshjp,Ch07hippo_Cb,51.28,2019/07/14,いまでぃ
@@ -3121,7 +3121,7 @@
 2,freshjp,Q52_Cb,43.05,2019/07/11,HAL900
 3,freshjp,Q52_Cb,49.15,2019/08/13,いまでぃ
 1,freshjp,Q52_Ct,18.38,2019/06/18,manchofu
-2,freshjp,Q52_Ct,22.53,2019/12/21,パロ・ウル
+2,freshjp,Q52_Ct,21.30,2020/01/25,パロ・ウル
 3,freshjp,Q52_Ct,23.36,2019/06/22,HAL900
 4,freshjp,Q52_Ct,24.86,2019/06/22,みっちゃん!
 5,freshjp,Q52_Ct,29.75,2019/06/09,SDL2
