@@ -20,9 +20,9 @@
 20,umibyewin,0001,5.85,2019/04/24,Radney
 1,umibyewin,0011,7.45,2019/04/24,guterham
 2,umibyewin,0011,7.70,2019/04/24,ふぁじい
-3,umibyewin,0011,7.83,2019/04/24,わあい
-4,umibyewin,0011,8.23,2019/07/20,akira
-5,umibyewin,0011,8.26,2020/01/12,Nordanix
+3,umibyewin,0011,7.83,2020/03/20,Nordanix
+4,umibyewin,0011,7.83,2019/04/24,わあい
+5,umibyewin,0011,8.23,2019/07/20,akira
 6,umibyewin,0011,8.31,2019/04/24,gori.sh
 7,umibyewin,0011,8.46,2019/04/24,らむてが(Ramtieger)
 8,umibyewin,0011,8.46,2019/04/24,cute_hikkychang
@@ -56,8 +56,8 @@
 16,umibyewin,00E0,3.42.91,2019/04/24,SUICIDEbyNUMBER
 17,umibyewin,00E0,3.53.01,2019/07/29,hal900hp
 18,umibyewin,00E0,3.53.45,2019/04/24,matumoti
-19,umibyewin,00E0,4.26.30,2019/04/24,Stabim
-20,umibyewin,00E0,4.35.05,2019/04/24,SDL2TLV
+19,umibyewin,00E0,4.13.93,2020/03/20,uranari
+20,umibyewin,00E0,4.26.30,2019/04/24,Stabim
 1,umibyewin,00E1,1.50.85,2019/04/24,guterham
 2,umibyewin,00E1,2.14.41,2019/04/24,Ico
 3,umibyewin,00E1,2.17.20,2019/04/24,わあい
@@ -149,9 +149,9 @@
 9,umibyewin,0102,6.88,2019/11/12,わあい
 10,umibyewin,0102,6.88,2019/04/24,cute_hikkychang
 11,umibyewin,0102,6.91,2019/04/24,ふぁじい
-12,umibyewin,0102,7.33,2019/10/30,でら
-13,umibyewin,0102,7.35,2019/04/24,KawaseFan
-14,umibyewin,0102,7.36,2019/04/24,gori.sh
+12,umibyewin,0102,7.31,2020/03/20,gori.sh
+13,umibyewin,0102,7.33,2019/10/30,でら
+14,umibyewin,0102,7.35,2019/04/24,KawaseFan
 15,umibyewin,0102,7.45,2019/04/24,Akari Telepath
 16,umibyewin,0102,7.51,2019/04/24,[deleted]
 17,umibyewin,0102,7.85,2019/04/24,Quasar
@@ -160,7 +160,7 @@
 20,umibyewin,0102,8.28,2019/07/20,tooro
 1,umibyewin,0203,4.61,2019/04/24,guterham
 2,umibyewin,0203,4.61,2020/01/03,わあい
-3,umibyewin,0203,4.71,2020/01/18,Nordanix
+3,umibyewin,0203,4.70,2020/03/20,Nordanix
 4,umibyewin,0203,4.71,2019/04/24,らむてが(Ramtieger)
 5,umibyewin,0203,4.71,2019/07/20,子人
 6,umibyewin,0203,4.73,2019/07/20,akira
@@ -219,7 +219,7 @@
 19,umibyewin,0405,5.83,2019/07/20,tooro
 20,umibyewin,0405,6.38,2019/04/24,enu405969
 1,umibyewin,0506,4.10,2019/04/24,guterham
-2,umibyewin,0506,4.18,2020/01/12,Nordanix
+2,umibyewin,0506,4.16,2020/03/20,Nordanix
 3,umibyewin,0506,4.20,2019/04/24,gori.sh
 4,umibyewin,0506,4.23,2019/04/24,KawaseFan
 5,umibyewin,0506,4.25,2019/04/24,らむてが(Ramtieger)
@@ -266,10 +266,10 @@
 6,umibyewin,0607,3.23,2019/04/24,ama
 7,umibyewin,0607,3.25,2019/04/24,ふぁじい
 8,umibyewin,0607,3.26,2019/04/24,Ico
-9,umibyewin,0607,3.26,2019/04/24,わあい
-10,umibyewin,0607,3.26,2019/04/24,tooro
-11,umibyewin,0607,3.26,2019/04/24,akira
-12,umibyewin,0607,3.28,2019/04/24,gori.sh
+9,umibyewin,0607,3.26,2020/03/20,gori.sh
+10,umibyewin,0607,3.26,2019/04/24,わあい
+11,umibyewin,0607,3.26,2019/04/24,tooro
+12,umibyewin,0607,3.26,2019/04/24,akira
 13,umibyewin,0607,3.28,2019/04/24,Sakiko
 14,umibyewin,0607,3.31,2019/10/30,siosatou
 15,umibyewin,0607,3.31,2019/04/24,cute_hikkychang
@@ -320,11 +320,11 @@
 20,umibyewin,0713,18.95,2019/04/24,Ico
 1,umibyewin,0809,5.11,2019/04/24,guterham
 2,umibyewin,0809,5.20,2019/04/24,らむてが(Ramtieger)
-3,umibyewin,0809,5.21,2019/04/24,cos
-4,umibyewin,0809,5.25,2019/04/24,akira
-5,umibyewin,0809,5.26,2019/10/27,Nordanix
-6,umibyewin,0809,5.26,2019/10/27,でら
-7,umibyewin,0809,5.28,2019/04/24,gori.sh
+3,umibyewin,0809,5.21,2020/03/20,Nordanix
+4,umibyewin,0809,5.21,2019/04/24,cos
+5,umibyewin,0809,5.25,2020/03/20,gori.sh
+6,umibyewin,0809,5.25,2019/04/24,akira
+7,umibyewin,0809,5.26,2019/10/27,でら
 8,umibyewin,0809,5.30,2019/04/24,ama
 9,umibyewin,0809,5.31,2019/04/24,cute_hikkychang
 10,umibyewin,0809,5.33,2019/04/24,Ico
@@ -342,7 +342,7 @@
 2,umibyewin,09E0,1.22.48,2019/04/24,guterham
 3,umibyewin,09E0,1.22.83,2019/04/24,らむてが(Ramtieger)
 4,umibyewin,09E0,1.23.21,2019/04/24,Ico
-5,umibyewin,09E0,1.23.30,2019/04/24,Nordanix
+5,umibyewin,09E0,1.23.21,2020/03/20,Nordanix
 6,umibyewin,09E0,1.24.25,2019/07/20,Sakiko
 7,umibyewin,09E0,1.24.61,2019/04/24,KawaseFan
 8,umibyewin,09E0,1.25.33,2019/04/24,Quasar
@@ -365,8 +365,8 @@
 5,umibyewin,1011,6.06,2019/04/24,ふぁじい
 6,umibyewin,1011,12.53,2019/04/24,らむてが(Ramtieger)
 7,umibyewin,1011,12.83,2020/01/12,Nordanix
-8,umibyewin,1011,14.43,2019/07/20,akira
-9,umibyewin,1011,14.83,2019/04/24,gori.sh
+8,umibyewin,1011,14.38,2020/03/20,gori.sh
+9,umibyewin,1011,14.43,2019/07/20,akira
 10,umibyewin,1011,14.93,2019/04/24,ama
 11,umibyewin,1011,17.03,2019/04/24,Akari Telepath
 12,umibyewin,1011,17.05,2019/04/24,Ico
@@ -401,12 +401,12 @@
 1,umibyewin,1216,3.25,2019/04/24,guterham
 2,umibyewin,1216,3.30,2019/04/24,ふぁじい
 3,umibyewin,1216,3.35,2019/04/24,らむてが(Ramtieger)
-4,umibyewin,1216,3.48,2019/10/30,でら
-5,umibyewin,1216,3.50,2020/03/14,Nordanix
-6,umibyewin,1216,4.00,2019/07/20,akira
-7,umibyewin,1216,4.03,2019/04/24,ama
-8,umibyewin,1216,4.03,2019/04/24,SE606
-9,umibyewin,1216,4.06,2019/04/24,gori.sh
+4,umibyewin,1216,3.38,2020/03/20,gori.sh
+5,umibyewin,1216,3.48,2019/10/30,でら
+6,umibyewin,1216,3.50,2020/03/14,Nordanix
+7,umibyewin,1216,4.00,2019/07/20,akira
+8,umibyewin,1216,4.03,2019/04/24,ama
+9,umibyewin,1216,4.03,2019/04/24,SE606
 10,umibyewin,1216,4.10,2019/09/28,Ico
 11,umibyewin,1216,4.38,2019/04/24,tooro
 12,umibyewin,1216,4.40,2019/04/24,ゞ Tonny 〆
@@ -419,10 +419,10 @@
 19,umibyewin,1216,4.80,2020/01/03,Akari Telepath
 20,umibyewin,1216,4.85,2019/04/24,Momothug
 1,umibyewin,1251,6.26,2019/04/24,guterham
-2,umibyewin,1251,6.88,2019/04/24,らむてが(Ramtieger)
-3,umibyewin,1251,7.01,2019/04/24,akira
-4,umibyewin,1251,7.15,2019/04/24,SE606
-5,umibyewin,1251,7.21,2019/10/27,Nordanix
+2,umibyewin,1251,6.80,2020/03/20,Nordanix
+3,umibyewin,1251,6.88,2019/04/24,らむてが(Ramtieger)
+4,umibyewin,1251,7.01,2019/04/24,akira
+5,umibyewin,1251,7.15,2019/04/24,SE606
 6,umibyewin,1251,7.61,2019/04/24,gori.sh
 7,umibyewin,1251,8.13,2019/04/24,cute_hikkychang
 8,umibyewin,1251,8.16,2019/10/27,Akari Telepath
@@ -539,13 +539,13 @@
 19,umibyewin,1617,19.88,2019/04/24,Marioscousins
 20,umibyewin,1617,19.93,2019/04/24,Coelun
 1,umibyewin,1718,9.63,2019/04/24,guterham
-2,umibyewin,1718,10.06,2019/04/24,わあい
-3,umibyewin,1718,10.10,2020/01/12,Nordanix
-4,umibyewin,1718,10.35,2019/04/24,ama
-5,umibyewin,1718,10.35,2019/04/24,cute_hikkychang
-6,umibyewin,1718,10.36,2019/04/24,らむてが(Ramtieger)
-7,umibyewin,1718,10.40,2019/07/20,akira
-8,umibyewin,1718,10.45,2019/04/24,gori.sh
+2,umibyewin,1718,10.05,2020/03/20,Nordanix
+3,umibyewin,1718,10.06,2019/04/24,わあい
+4,umibyewin,1718,10.30,2020/03/20,gori.sh
+5,umibyewin,1718,10.35,2019/04/24,ama
+6,umibyewin,1718,10.35,2019/04/24,cute_hikkychang
+7,umibyewin,1718,10.36,2019/04/24,らむてが(Ramtieger)
+8,umibyewin,1718,10.40,2019/07/20,akira
 9,umibyewin,1718,10.46,2019/04/24,moog
 10,umibyewin,1718,10.53,2019/10/30,でら
 11,umibyewin,1718,10.63,2019/04/24,Ico
@@ -581,9 +581,9 @@
 1,umibyewin,1953,6.38,2019/10/30,siosatou
 2,umibyewin,1953,6.40,2019/04/24,guterham
 3,umibyewin,1953,7.53,2019/07/20,akira
-4,umibyewin,1953,7.88,2019/11/12,わあい
-5,umibyewin,1953,7.95,2020/02/24,Akari Telepath
-6,umibyewin,1953,8.03,2019/10/27,Nordanix
+4,umibyewin,1953,7.88,2020/03/20,Nordanix
+5,umibyewin,1953,7.88,2019/11/12,わあい
+6,umibyewin,1953,7.95,2020/02/24,Akari Telepath
 7,umibyewin,1953,8.18,2019/04/24,らむてが(Ramtieger)
 8,umibyewin,1953,8.33,2019/07/20,Sakiko
 9,umibyewin,1953,8.36,2019/04/24,cute_hikkychang
@@ -682,7 +682,7 @@
 2,umibyewin,2324,5.73,2019/07/20,ふぁじい
 3,umibyewin,2324,5.85,2019/04/24,らむてが(Ramtieger)
 4,umibyewin,2324,5.86,2019/07/20,akira
-5,umibyewin,2324,5.90,2020/01/03,Nordanix
+5,umibyewin,2324,5.88,2020/03/20,Nordanix
 6,umibyewin,2324,6.01,2019/04/24,Akari Telepath
 7,umibyewin,2324,6.05,2019/07/20,gori.sh
 8,umibyewin,2324,6.06,2019/07/20,Sakiko
@@ -702,7 +702,7 @@
 2,umibyewin,2435,4.53,2019/04/24,guterham
 3,umibyewin,2435,4.66,2019/09/03,cute_hikkychang
 4,umibyewin,2435,4.68,2019/07/20,ふぁじい
-5,umibyewin,2435,4.80,2019/04/24,gori.sh
+5,umibyewin,2435,4.78,2020/03/20,gori.sh
 6,umibyewin,2435,4.81,2019/07/20,akira
 7,umibyewin,2435,4.90,2019/07/20,わあい
 8,umibyewin,2435,5.01,2019/04/24,watansu
@@ -807,8 +807,8 @@
 7,umibyewin,2829,8.96,2019/07/20,akira
 8,umibyewin,2829,9.10,2019/04/24,SE606
 9,umibyewin,2829,9.50,2019/04/24,ama
-10,umibyewin,2829,9.51,2019/04/24,enu405969
-11,umibyewin,2829,9.61,2019/04/24,gori.sh
+10,umibyewin,2829,9.51,2020/03/20,gori.sh
+11,umibyewin,2829,9.51,2019/04/24,enu405969
 12,umibyewin,2829,9.76,2019/08/23,cute_hikkychang
 13,umibyewin,2829,9.83,2019/04/24,Ico
 14,umibyewin,2829,9.93,2019/06/07,hal900hp
@@ -841,8 +841,8 @@
 1,umibyewin,2957,10.35,2019/07/20,ふぁじい
 2,umibyewin,2957,10.43,2019/04/24,guterham
 3,umibyewin,2957,11.50,2019/07/20,gori.sh
-4,umibyewin,2957,11.75,2019/10/30,でら
-5,umibyewin,2957,11.76,2020/01/12,Nordanix
+4,umibyewin,2957,11.51,2020/03/20,Nordanix
+5,umibyewin,2957,11.75,2019/10/30,でら
 6,umibyewin,2957,12.18,2019/04/24,cute_hikkychang
 7,umibyewin,2957,12.26,2019/07/20,akira
 8,umibyewin,2957,12.51,2019/04/24,らむてが(Ramtieger)
@@ -860,8 +860,8 @@
 20,umibyewin,2957,23.86,2019/04/24,ffviplayer
 1,umibyewin,3031,7.15,2019/04/24,ふぁじい
 2,umibyewin,3031,7.16,2019/04/24,guterham
-3,umibyewin,3031,7.55,2019/04/24,らむてが(Ramtieger)
-4,umibyewin,3031,7.65,2020/01/03,Nordanix
+3,umibyewin,3031,7.31,2020/03/20,Nordanix
+4,umibyewin,3031,7.55,2019/04/24,らむてが(Ramtieger)
 5,umibyewin,3031,7.76,2019/04/24,わあい
 6,umibyewin,3031,7.91,2019/07/20,akira
 7,umibyewin,3031,8.20,2019/04/24,gori.sh
@@ -881,7 +881,7 @@
 1,umibyewin,3132,7.80,2019/07/20,ふぁじい
 2,umibyewin,3132,7.88,2019/04/24,guterham
 3,umibyewin,3132,7.98,2019/04/24,gori.sh
-4,umibyewin,3132,8.13,2020/01/12,Nordanix
+4,umibyewin,3132,8.06,2020/03/20,Nordanix
 5,umibyewin,3132,8.20,2019/04/24,わあい
 6,umibyewin,3132,8.48,2019/04/24,cute_hikkychang
 7,umibyewin,3132,8.53,2019/07/20,akira
@@ -900,8 +900,8 @@
 20,umibyewin,3132,13.23,2019/07/20,justice fist
 1,umibyewin,3233,8.18,2019/04/24,guterham
 2,umibyewin,3233,8.41,2019/04/24,わあい
-3,umibyewin,3233,8.56,2019/04/24,らむてが(Ramtieger)
-4,umibyewin,3233,8.68,2020/01/12,Nordanix
+3,umibyewin,3233,8.53,2020/03/20,Nordanix
+4,umibyewin,3233,8.56,2019/04/24,らむてが(Ramtieger)
 5,umibyewin,3233,8.83,2019/07/20,gori.sh
 6,umibyewin,3233,8.85,2019/10/30,でら
 7,umibyewin,3233,8.91,2019/04/24,moog
@@ -919,9 +919,9 @@
 19,umibyewin,3233,12.93,2019/07/20,hal900hp
 20,umibyewin,3233,13.08,2019/04/24,Stabim
 1,umibyewin,3242,12.25,2019/04/24,guterham
-2,umibyewin,3242,13.86,2019/07/20,gori.sh
-3,umibyewin,3242,14.40,2019/04/24,らむてが(Ramtieger)
-4,umibyewin,3242,15.38,2019/11/12,Nordanix
+2,umibyewin,3242,13.76,2020/03/20,Nordanix
+3,umibyewin,3242,13.86,2019/07/20,gori.sh
+4,umibyewin,3242,14.40,2019/04/24,らむてが(Ramtieger)
 5,umibyewin,3242,16.05,2019/04/24,わあい
 6,umibyewin,3242,16.11,2019/04/24,moog
 7,umibyewin,3242,16.21,2019/07/20,akira
@@ -941,11 +941,11 @@
 1,umibyewin,3334,7.98,2019/04/24,guterham
 2,umibyewin,3334,9.60,2020/03/14,Nordanix
 3,umibyewin,3334,9.63,2019/07/20,akira
-4,umibyewin,3334,11.01,2019/04/24,Akari Telepath
-5,umibyewin,3334,11.11,2019/10/30,でら
-6,umibyewin,3334,11.46,2019/07/20,わあい
-7,umibyewin,3334,11.86,2019/04/24,Ico
-8,umibyewin,3334,12.61,2019/04/24,gori.sh
+4,umibyewin,3334,9.70,2020/03/20,gori.sh
+5,umibyewin,3334,11.01,2019/04/24,Akari Telepath
+6,umibyewin,3334,11.11,2019/10/30,でら
+7,umibyewin,3334,11.46,2019/07/20,わあい
+8,umibyewin,3334,11.86,2019/04/24,Ico
 9,umibyewin,3334,14.58,2019/04/24,ama
 10,umibyewin,3334,15.26,2019/04/24,KawaseFan
 11,umibyewin,3334,15.65,2019/04/24,らむてが(Ramtieger)
@@ -992,16 +992,16 @@
 12,umibyewin,3536,9.90,2019/04/24,Akari Telepath
 13,umibyewin,3536,10.01,2019/04/24,Harucani
 14,umibyewin,3536,10.56,2019/04/24,あきつ
-15,umibyewin,3536,11.23,2019/04/24,おるとEX
-16,umibyewin,3536,11.30,2019/04/24,gori.sh
+15,umibyewin,3536,10.91,2020/03/20,gori.sh
+16,umibyewin,3536,11.23,2019/04/24,おるとEX
 17,umibyewin,3536,11.70,2019/04/24,ama
 18,umibyewin,3536,12.18,2019/07/20,わあい
 19,umibyewin,3536,12.35,2019/07/20,Getter1
 20,umibyewin,3536,12.41,2019/04/24,ffviplayer
 1,umibyewin,3637,9.86,2019/04/24,guterham
 2,umibyewin,3637,10.53,2019/07/20,わあい
-3,umibyewin,3637,10.60,2019/04/24,らむてが(Ramtieger)
-4,umibyewin,3637,10.73,2020/03/14,Nordanix
+3,umibyewin,3637,10.56,2020/03/20,Nordanix
+4,umibyewin,3637,10.60,2019/04/24,らむてが(Ramtieger)
 5,umibyewin,3637,11.00,2019/07/20,akira
 6,umibyewin,3637,11.03,2019/04/24,moog
 7,umibyewin,3637,11.18,2019/04/24,gori.sh
@@ -1200,7 +1200,7 @@
 20,umibyewin,4445,4.71,2019/04/24,ffviplayer
 1,umibyewin,4546,7.88,2019/04/24,guterham
 2,umibyewin,4546,7.95,2019/04/24,tooro
-3,umibyewin,4546,9.83,2020/01/12,Nordanix
+3,umibyewin,4546,9.35,2020/03/20,Nordanix
 4,umibyewin,4546,10.15,2019/04/24,わあい
 5,umibyewin,4546,10.63,2019/07/20,akira
 6,umibyewin,4546,10.85,2019/04/24,らむてが(Ramtieger)
@@ -1259,8 +1259,8 @@
 19,umibyewin,4748,8.63,2019/04/24,Stabim
 20,umibyewin,4748,8.98,2019/04/24,ffviplayer
 1,umibyewin,4859,8.30,2019/04/24,guterham
-2,umibyewin,4859,8.73,2019/04/24,らむてが(Ramtieger)
-3,umibyewin,4859,8.80,2020/01/12,Nordanix
+2,umibyewin,4859,8.68,2020/03/20,Nordanix
+3,umibyewin,4859,8.73,2019/04/24,らむてが(Ramtieger)
 4,umibyewin,4859,8.85,2019/07/20,akira
 5,umibyewin,4859,9.01,2019/10/27,でら
 6,umibyewin,4859,9.15,2019/04/24,moog
@@ -1281,7 +1281,7 @@
 1,umibyewin,49E3,1.34.41,2019/10/27,でら
 2,umibyewin,49E3,1.34.48,2019/04/24,らむてが(Ramtieger)
 3,umibyewin,49E3,1.34.51,2019/04/24,guterham
-4,umibyewin,49E3,1.36.60,2019/11/12,Nordanix
+4,umibyewin,49E3,1.34.86,2020/03/20,Nordanix
 5,umibyewin,49E3,1.36.76,2019/09/14,Ico
 6,umibyewin,49E3,1.36.91,2019/04/24,わあい
 7,umibyewin,49E3,1.38.48,2019/04/24,gori.sh
@@ -1361,8 +1361,8 @@
 1,umibyewin,5356,5.68,2019/04/24,guterham
 2,umibyewin,5356,6.01,2019/04/24,わあい
 3,umibyewin,5356,6.06,2019/07/20,ふぁじい
-4,umibyewin,5356,6.33,2019/07/20,gori.sh
-5,umibyewin,5356,6.48,2020/01/12,Nordanix
+4,umibyewin,5356,6.31,2020/03/20,Nordanix
+5,umibyewin,5356,6.33,2019/07/20,gori.sh
 6,umibyewin,5356,6.48,2019/07/20,akira
 7,umibyewin,5356,6.55,2019/07/20,Sakiko
 8,umibyewin,5356,6.76,2019/10/27,Akari Telepath
@@ -1382,7 +1382,7 @@
 2,umibyewin,5449,4.25,2019/07/20,akira
 3,umibyewin,5449,4.33,2019/04/24,らむてが(Ramtieger)
 4,umibyewin,5449,4.38,2019/04/24,KawaseFan
-5,umibyewin,5449,4.46,2020/01/03,Nordanix
+5,umibyewin,5449,4.45,2020/03/20,Nordanix
 6,umibyewin,5449,4.50,2019/04/24,Coelun
 7,umibyewin,5449,4.51,2019/04/24,gori.sh
 8,umibyewin,5449,4.55,2019/10/30,でら
@@ -1421,9 +1421,9 @@
 1,umibyewin,5620,7.01,2019/04/24,guterham
 2,umibyewin,5620,7.08,2019/04/24,akira
 3,umibyewin,5620,7.13,2019/04/24,ふぁじい
-4,umibyewin,5620,7.30,2019/11/12,わあい
-5,umibyewin,5620,7.30,2019/04/24,らむてが(Ramtieger)
-6,umibyewin,5620,7.33,2020/01/12,Nordanix
+4,umibyewin,5620,7.25,2020/03/20,Nordanix
+5,umibyewin,5620,7.30,2019/11/12,わあい
+6,umibyewin,5620,7.30,2019/04/24,らむてが(Ramtieger)
 7,umibyewin,5620,7.38,2019/04/24,gori.sh
 8,umibyewin,5620,7.43,2019/04/24,Ico
 9,umibyewin,5620,8.41,2019/04/24,cute_hikkychang
@@ -1459,8 +1459,8 @@
 19,umibyewin,5730,18.65,2019/07/20,justice fist
 20,umibyewin,5730,19.26,2019/04/24,enu405969
 1,umibyewin,5844,4.48,2019/04/24,guterham
-2,umibyewin,5844,4.70,2019/07/20,akira
-3,umibyewin,5844,4.86,2020/01/12,Nordanix
+2,umibyewin,5844,4.56,2020/03/20,Nordanix
+3,umibyewin,5844,4.70,2019/07/20,akira
 4,umibyewin,5844,4.96,2019/04/24,わあい
 5,umibyewin,5844,5.05,2019/04/24,gori.sh
 6,umibyewin,5844,5.08,2019/10/27,Akari Telepath
@@ -1481,7 +1481,7 @@
 1,umibyewin,5949,11.16,2019/04/24,ふぁじい
 2,umibyewin,5949,11.25,2019/04/24,guterham
 3,umibyewin,5949,11.65,2019/10/27,でら
-4,umibyewin,5949,12.28,2020/01/12,Nordanix
+4,umibyewin,5949,11.83,2020/03/20,Nordanix
 5,umibyewin,5949,12.81,2019/04/24,gori.sh
 6,umibyewin,5949,14.15,2019/07/20,akira
 7,umibyewin,5949,14.21,2019/04/24,Ico
