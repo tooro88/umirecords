@@ -14,7 +14,7 @@
 14,freshjp,Ch01acorn_Cb,1.35.35,2019/07/18,ありあけづき
 15,freshjp,Ch01acorn_Cb,1.35.56,2020/02/08,ぶんざえもん
 16,freshjp,Ch01acorn_Cb,1.55.26,2019/07/11,マター
-1,freshjp,Ch01acorn_Ct,6.85,2019/12/08,SDL2
+1,freshjp,Ch01acorn_Ct,6.53,2020/04/24,SDL2
 2,freshjp,Ch01acorn_Ct,7.20,2019/08/20,cos
 3,freshjp,Ch01acorn_Ct,9.31,2019/06/02,わあい
 4,freshjp,Ch01acorn_Ct,9.51,2019/08/01,もも
@@ -902,7 +902,7 @@
 5,freshjp,Ch19shun42_Cb,27.75,2020/02/29,パロ・ウル
 6,freshjp,Ch19shun42_Cb,30.31,2020/01/04,ワカ
 7,freshjp,Ch19shun42_Cb,33.45,2019/09/30,フォール
-8,freshjp,Ch19shun42_Cb,45.70,2019/10/20,どりる
+8,freshjp,Ch19shun42_Cb,38.31,2020/04/24,どりる
 9,freshjp,Ch19shun42_Cb,59.33,2020/02/27,ハヒーベベ
 10,freshjp,Ch19shun42_Cb,1.45.05,2020/01/16,banjo4life
 11,freshjp,Ch19shun42_Cb,1.51.86,2019/10/13,レンタヒーロー
@@ -953,7 +953,8 @@
 4,freshjp,Ch20sayonara32_Cb,21.71,2019/10/27,Mr,Trap
 5,freshjp,Ch20sayonara32_Cb,22.08,2019/10/13,レンタヒーロー
 6,freshjp,Ch20sayonara32_Cb,26.83,2020/01/16,banjo4life
-7,freshjp,Ch20sayonara32_Cb,1.13.88,2020/02/27,ハヒーベベ
+7,freshjp,Ch20sayonara32_Cb,46.18,2020/04/24,どりる
+8,freshjp,Ch20sayonara32_Cb,1.13.88,2020/02/27,ハヒーベベ
 1,freshjp,Ch20sayonara32_Ct,7.98,2020/03/09,SDL2
 2,freshjp,Ch20sayonara32_Ct,8.33,2019/10/05,わあい
 3,freshjp,Ch20sayonara32_Ct,10.25,2019/10/06,HAL900
